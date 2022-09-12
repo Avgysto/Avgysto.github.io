@@ -30,12 +30,10 @@ img {
 }
 
 .article {
-  /* BEGIN (write your solution here) */
   column-count:2;
   column-gap: 50px;
   column-rule-width: 1px;
   column-rule-color: #3d405b;
-  /* END */
 }
 
 .applicants {
@@ -44,10 +42,8 @@ img {
 
   color: #f4f1de;
 
-  /* BEGIN (write your solution here) */
   column-span: all;
   columns: 250px 2;
-  /* END */
 
   background: #3d405b;
 }
